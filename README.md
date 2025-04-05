@@ -1,40 +1,56 @@
-# Kalıpları Kır 🎯
+# Kalıpları Kır-AI 💥
 
-EmpowerHER Ideathon 2025 kapsamında geliştirilen bu proje, toplumsal cinsiyet kalıplarını yıkmayı ve kadınlara ilham vermeyi hedefleyen yapay zekâ destekli bir platformdur.
+> EmpowerHER 2025 Ideathon projesidir.
 
-## 💡 Amaç
+## 🧠 Proje Özeti
 
-Kadınların "erkek mesleği" olarak görülen alanlarda da başarılı olabileceğini göstermek. İlham verici kadın rol modelleri ile genç kadınları buluşturarak onların özgüvenlerini artırmak.
+**Kalıpları Kır-AI**, yapay zekâ destekli bir platform fikridir.  
+Kadınların, özellikle genç kızların, toplumsal cinsiyet kalıplarını yıkmalarına destek olmayı hedefler.  
+Platform, kullanıcıların ilgi alanlarına göre onlara gerçek kadın rol modellerin hikâyelerini sunar. Böylece hem cesaretlendirici bir deneyim yaşatır hem de görünmeyen başarıları görünür kılar.
+
+## 🎯 Amaç
+
+- Toplumsal cinsiyet kalıplarını yıkmak  
+- Genç kadınlara ilham vermek  
+- Gerçek kadın hikâyelerini erişilebilir kılmak  
+- Yapay zekâyla kişiye özel içerik eşleştirmesi sunmak
 
 ## ⚙️ Nasıl Çalışır?
 
-- Kullanıcı, ilgi alanlarını girer.
-- Yapay zekâ, onu en uygun kadın rol modellerle eşleştirir.
-- Videolar, infografikler ve hikâyelerle ilham sunar.
-- Sosyal medya ve atölye desteği ile etkileşim güçlendirilir.
+1. Kullanıcı ilgi alanını girer  
+2. Yapay zekâ, o alana uygun kadın rol modelleriyle eşleştirir  
+3. Kullanıcı, bu rol modellerin hayat hikâyelerine ve önerilerine ulaşır  
+4. İlerleyen aşamada sosyal medya entegrasyonu ve eğitim modülleri planlanmaktadır
 
-## 👩 İlham Veren Kadınlar
+## 🦸 İlham Veren Rol Modeller
 
-- **Leyla Elaldi** – Kadın tır şoförü  
-- **Şengül Cavlı** – İETT şoförü  
-- **Elif Akdağ** – Taksi şoförü  
-- **Sare Aydın** – Tekerlekli sandalyede doktor  
-- **Gülşen Yalçın & Yeşim Erbil** – Maden mühendisleri  
+- Leyla Elaldi – Kadın tır şoförü  
+- Şengül Cavlı – İETT şoförü  
+- Elif Akdağ – Taksi şoförü  
+- Sare Aydın – Tekerlekli sandalyede doktor  
+- Gülşen Yalçın & Yeşim Erbil – Maden mühendisleri
 
-## 💻 Teknoloji
+## 🧩 Teknoloji ve İçerik
 
-- [ ] Web prototipi (taslak)
-- [ ] Yapay zekâ eşleştirme (gelecek plan)
-- [x] İçerik ve kullanıcı senaryoları hazır
+- Şu an için fikir, kullanıcı akışı ve senaryo hazır  
+- Arayüz prototipi Figma üzerinde tasarlandı  
+- Yapay zekâ algoritması geliştirilmeye açıktır
 
-## 👩‍💻 Takım Üyeleri
+## 👩‍💻 Ekip
 
-- **Bushra**
-- **Ali Ensaroğlu**
-- **Ayşenur Bolukçu**
+- **Bushra (vizyon ve içerik desteği)**  
+- **Ali Ensaroğlu (teknik analiz)**  
+- **Ayşenur Bolukçu (strateji ve araştırma)**
 
-## 📎 Ek Dosyalar
+## 📝 Katkılar
 
-- [`kaliplari-kir-proje.docx`](kaliplari-kir-proje.docx)
+Bushra, bu projeye hem empatik bakış açısıyla hem de ilham dolu fikirleriyle katkı sağlamıştır.  
+Daha geniş kapsamlı fikirlerini başka bir projede geliştirmektedir.
 
-## ✨ İlhamla yola çıktık, kalıpları birlikte kırıyoruz!
+## 📄 Dosyalar
+
+- `proje-vallahi-son.docx` → Proje detay dosyası
+
+## 🗯️ Slogan
+
+> **Kalıpları biz koymadık, biz yıkarız!**
