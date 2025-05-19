@@ -1,56 +1,84 @@
-# Kalıpları Kır-AI 💥
+# Kalıpları Kır
 
-> EmpowerHER 2025 Ideathon projesidir.
+**Kalıpları Kır**, kadınların toplumsal önyargılara karşı güçlü adımlar atmalarını destekleyen bir projedir. Bu platform, kadınların kendi hikayelerini paylaşmalarına, destek ağı oluşturmasına ve farkındalık yaratmasına olanak tanır.
 
-## 🧠 Proje Özeti
+## 🎯 Projenin Amacı
 
-**Kalıpları Kır-AI**, yapay zekâ destekli bir platform fikridir.  
-Kadınların, özellikle genç kızların, toplumsal cinsiyet kalıplarını yıkmalarına destek olmayı hedefler.  
-Platform, kullanıcıların ilgi alanlarına göre onlara gerçek kadın rol modellerin hikâyelerini sunar. Böylece hem cesaretlendirici bir deneyim yaşatır hem de görünmeyen başarıları görünür kılar.
+- Kadınların seslerini duyurabilecekleri dijital bir alan yaratmak.
+- Önyargılara karşı kolektif farkındalık geliştirmek.
+- Kadınlar arası dayanışmayı dijital ortamda da güçlendirmek.
 
-## 🎯 Amaç
+## 📁 Dosya Yapısı
 
-- Toplumsal cinsiyet kalıplarını yıkmak  
-- Genç kadınlara ilham vermek  
-- Gerçek kadın hikâyelerini erişilebilir kılmak  
-- Yapay zekâyla kişiye özel içerik eşleştirmesi sunmak
+project-folder/
+├── index.html # Ana sayfa
+├── about.html # Hakkımızda sayfası
+├── css/
+│ ├── reset.css # Tarayıcı sıfırlama stilleri
+│ └── style.css # Genel stil dosyası
+├── js/
+│ ├── model.js # Veri modelleme ve işlevsellik
+│ └── script.js # Genel etkileşimler
+├── images/ # Projeye ait görseller
+├── fonts/ # Özel fontlar veya ikonlar
+└── README.md # Proje dokümantasyon
 
-## ⚙️ Nasıl Çalışır?
+## 🛠️ Kullanılan Teknolojiler
 
-1. Kullanıcı ilgi alanını girer  
-2. Yapay zekâ, o alana uygun kadın rol modelleriyle eşleştirir  
-3. Kullanıcı, bu rol modellerin hayat hikâyelerine ve önerilerine ulaşır  
-4. İlerleyen aşamada sosyal medya entegrasyonu ve eğitim modülleri planlanmaktadır
+- **HTML5**: Sayfa yapısı ve içerik düzeni için.
+- **CSS3**: Görsel tasarım ve responsive yapı için.
+- **JavaScript**: Dinamik içerikler ve kullanıcı etkileşimi.
+- **Git**: Versiyon kontrolü ve iş birliği için.
+- **THREE.js**: (Planlanan) 3D animasyonlar ve interaktif deneyim için.
 
-## 🦸 İlham Veren Rol Modeller
+## 🌟 Özellikler
 
-- Leyla Elaldi – Kadın tır şoförü  
-- Şengül Cavlı – İETT şoförü  
-- Elif Akdağ – Taksi şoförü  
-- Sare Aydın – Tekerlekli sandalyede doktor  
-- Gülşen Yalçın & Yeşim Erbil – Maden mühendisleri
+- 🌐 Ana Sayfa (`index.html`)
+- 📄 Hakkımızda Sayfası (`about.html`)
+- 🎨 CSS ile özel tasarım (`css/style.css`)
+- 🧠 JS ile etkileşimli içerikler (`js/script.js`)
+- 🖼️ Görsel destekli anlatım (`images/`)
+- 🅰️ Özel yazı tipleri (`fonts/`)
+- Duyarlı (Responsive) tasarım.
+- Kullanıcı dostu navigasyon.
+- Kadın hikayelerini paylaşmaya olanak sağlayan özel bölümler.
 
-## 🧩 Teknoloji ve İçerik
+## 🚀 Kurulum
 
-- Şu an için fikir, kullanıcı akışı ve senaryo hazır  
-- Arayüz prototipi Figma üzerinde tasarlandı  
-- Yapay zekâ algoritması geliştirilmeye açıktır
+1. Projeyi klonlayın veya indirin:
+```bash
+   git clone https://github.com/bushranovaaa/Kaliplari-Kir.git
+```
 
-## 👩‍💻 Ekip
+2. Proje klasörüne gidin: 
+```bash
+   cd kaliplari-kir-ai
+```
 
-- **Bushra (vizyon ve içerik desteği)**  
-- **Ali Ensaroğlu (teknik analiz)**  
-- **Ayşenur Bolukçu (strateji ve araştırma)**
+3. **index.html** dosyasını bir tarayıcıda açarak projeyi görüntüleyin.
 
-## 📝 Katkılar
+## 🤝 Katkıda Bulunma
 
-Bushra, bu projeye hem empatik bakış açısıyla hem de ilham dolu fikirleriyle katkı sağlamıştır.  
-Daha geniş kapsamlı fikirlerini başka bir projede geliştirmektedir.
+1. Yeni bir dal oluşturun:
+```bash
+   git checkout -b yeni-ozellik
+```
 
-## 📄 Dosyalar
+2. Değişiklik yapın ve commit edin:
+```bash
+   git commit -m "Yeni özellik eklendi"
+```
 
-- `proje-vallahi-son.docx` → Proje detay dosyası
+3.Değişiklikleri push edin:
+```bash
+   git push origin yeni-ozellik
+```
 
-## 🗯️ Slogan
+4. Pull Request oluşturun.
 
-> **Kalıpları biz koymadık, biz yıkarız!**
+## 📝 Lisans
+Bu proje **MIT Lisansı** altında lisanslanmıştır.
+
+# ❤️ Katılan Her Kadına Sonsuz Saygıyla
+Kalıpları birlikte kırıyoruz. Gücünüzü saklamayın. Paylaşın, destek olun, değişimi başlatın.
+💪✨

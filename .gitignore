@@ -1,0 +1,17 @@
+# IDE
+.idea/
+*.iml
+*.xml
+
+# Python 
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+ .DS_Store
+Thumbs.db
+
+# Env
+.Env
+venv/
