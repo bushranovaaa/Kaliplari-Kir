@@ -1,47 +1,47 @@
 # Kalıpları Kır
 
-**Kalıpları Kır**, kadınların toplumsal önyargılara karşı güçlü adımlar atmalarını destekleyen bir projedir. Bu platform, kadınların kendi hikayelerini paylaşmalarına, destek ağı oluşturmasına ve farkındalık yaratmasına olanak tanır.
+Kalıpları Kır, kadınların toplumsal önyargılara karşı güçlü adımlar atmasını destekleyen bir platformdur. Kadınların kendi hikayelerini paylaşmasına, dayanışma ağları kurmasına ve farkındalık yaratmasına olanak sağlar.
 
 ## 🎯 Projenin Amacı
-
 - Kadınların seslerini duyurabilecekleri dijital bir alan yaratmak.
-- Önyargılara karşı kolektif farkındalık geliştirmek.
-- Kadınlar arası dayanışmayı dijital ortamda da güçlendirmek.
+- Toplumsal önyargılara karşı kolektif farkındalık geliştirmek.
+- Kadınlar arası dayanışmayı dijital ortamda güçlendirmek.
 
 ## 📁 Dosya Yapısı
 
 project-folder/
-├── index.html # Ana sayfa
-├── about.html # Hakkımızda sayfası
-├── css/
-│ ├── reset.css # Tarayıcı sıfırlama stilleri
-│ └── style.css # Genel stil dosyası
-├── js/
-│ ├── model.js # Veri modelleme ve işlevsellik
-│ └── script.js # Genel etkileşimler
-├── images/ # Projeye ait görseller
-├── fonts/ # Özel fontlar veya ikonlar
-└── README.md # Proje dokümantasyon
+
+├── index.html         # Ana sayfa  
+├── about.html         # Hakkımızda sayfası  
+├── css/  
+│   ├── reset.css      # Tarayıcı sıfırlama stilleri  
+│   └── style.css      # Genel stil dosyası  
+├── js/  
+│   ├── model.js       # Veri modeli ve işlevsellik  
+│   └── script.js      # Genel etkileşimler  
+├── images/            # Projeye ait görseller  
+├── fonts/             # Özel fontlar veya ikonlar  
+└── README.md          # Proje dokümantasyonu  
+
 
 ## 🛠️ Kullanılan Teknolojiler
-
-- **HTML5**: Sayfa yapısı ve içerik düzeni için.
-- **CSS3**: Görsel tasarım ve responsive yapı için.
-- **JavaScript**: Dinamik içerikler ve kullanıcı etkileşimi.
-- **Git**: Versiyon kontrolü ve iş birliği için.
-- **THREE.js**: (Planlanan) 3D animasyonlar ve interaktif deneyim için.
+- **HTML5:** Sayfa yapısı ve içerik düzeni için
+- **CSS3:** Görsel tasarım ve responsive yapı için
+- **JavaScript:** Dinamik içerikler ve kullanıcı etkileşimi için
+- *Git:** Versiyon kontrolü ve iş birliği için
+- **THREE.js:**  (Planlanan) 3D animasyonlar ve interaktif deneyimler için
 
 ## 🌟 Özellikler
 
-- 🌐 Ana Sayfa (`index.html`)
-- 📄 Hakkımızda Sayfası (`about.html`)
-- 🎨 CSS ile özel tasarım (`css/style.css`)
-- 🧠 JS ile etkileşimli içerikler (`js/script.js`)
-- 🖼️ Görsel destekli anlatım (`images/`)
-- 🅰️ Özel yazı tipleri (`fonts/`)
-- Duyarlı (Responsive) tasarım.
-- Kullanıcı dostu navigasyon.
-- Kadın hikayelerini paylaşmaya olanak sağlayan özel bölümler.
+- 🌐 Ana Sayfa (index.html)
+- 📄 Hakkımızda Sayfası (about.html)
+- 🎨 Özel CSS tasarımı (css/style.css)
+- 🧠 Etkileşimli içerikler (js/script.js)
+- 🖼️ Görsel destekli anlatım (images/)
+- 🅰️ Özel fontlar ve ikonlar (fonts/)
+- Duyarlı (responsive) tasarım
+- Kullanıcı dostu navigasyon
+- Kadın hikayelerinin paylaşılmasına olanak tanıyan özel bölümler
 
 ## 🚀 Kurulum
 
@@ -74,7 +74,7 @@ project-folder/
    git push origin yeni-ozellik
 ```
 
-4. Pull Request oluşturun.
+4. GitHub’da pull request (çekme isteği) oluşturun.
 
 ## 📝 Lisans
 Bu proje **MIT Lisansı** altında lisanslanmıştır.
